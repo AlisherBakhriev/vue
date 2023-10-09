@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "text": " Жизнь - это то, что с тобой происходит, пока ты строишь планы.",
+      "author": "Джон Леннон",
+      "genre": "с",
+      "dateAdded": 1696843663009,
+      "id": 2
+    },
+    {
+      "text": "dsfdfvsddf",
+      "author": "dfvdvfd",
+      "genre": "dfvdfdvd",
+      "dateAdded": 1696843999734,
+      "id": 3
+    }
+  ]
+}
